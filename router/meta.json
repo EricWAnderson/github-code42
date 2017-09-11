@@ -1,0 +1,12 @@
+{
+  "/": {
+    "title": "Code42 on Github",
+    "description": "See what Code42 has been up to in public repositories",
+    "keywords": "programming, code"
+  },
+  "/*": {
+    "title": "Code42 member on Github",
+    "description": "See what Code42 has been up to in public repositories",
+    "keywords": "programming, code"
+  }
+}
